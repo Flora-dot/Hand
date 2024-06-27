@@ -13,7 +13,8 @@ export default {
       "custom-white": "#ffffff",
       "custom-beige": "#FEF1E0",
       "custom-grey": "#F5F5F5",
-      "dark-grey": "#5A6675"
+      "dark-grey": "#5A6675",
+      "light-green": "#34D399;"
     },
     extend: {},
   },
