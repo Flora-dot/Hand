@@ -9,9 +9,9 @@ export const Header = () => {
             <Logo />
             <HeaderMenu />
             <Button className={'hidden xl:block h-12 py-3 px-7 text-base font-semibold'} children={'Start a Project'}/>
-            <Button className={'xl:hidden bg-custom-white w-10 h-12'}>
+            <button className={'xl:hidden bg-custom-white  w-10 h-12'}>
                 <img src={BurgerIcon} alt="" className="w-full" />
-            </Button>
+            </button>
         </header>
     )
 }
