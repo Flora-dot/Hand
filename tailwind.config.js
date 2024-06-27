@@ -10,7 +10,10 @@ export default {
       "custom-yellow": "#FDCA09",
       "faint-black": "#878787;",
       "dark-black": "#000000",
-      "custom-white": "#ffffff"
+      "custom-white": "#ffffff",
+      "custom-beige": "#FEF1E0",
+      "custom-grey": "#F5F5F5",
+      "dark-grey": "#5A6675"
     },
     extend: {},
   },

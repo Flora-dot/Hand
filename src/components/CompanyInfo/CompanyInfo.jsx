@@ -1,6 +1,6 @@
 export const CompanyInfo = () => {
     return(
-        <section className="my-26 bg-dark-black flex justify-between items-center py-10 px-24 ">
+        <section className="my-26 bg-dark-black flex flex-col xl:flex-row gap-8 justify-between items-center py-10 px-20 ">
             <div>
                 <h2 className="font-bold text-6xl text-custom-yellow my-4">350 +</h2>
                 <p className="font-medium text-2xl text-custom-white">Clients Worldwide</p>
